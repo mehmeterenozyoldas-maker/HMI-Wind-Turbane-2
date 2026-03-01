@@ -1,0 +1,7 @@
+{
+  "name": "Urban Pulse - Cinematic Installation",
+  "description": "An interactive 3D city art installation visualizing urban flow and data. Features generative terrain, dynamic lighting, and AI-powered urban analysis using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
